@@ -1,6 +1,6 @@
 # DL- Developing a Neural Network Classification Model using Transfer Learning
-Praveen kumar k
-212225230216
+MIRZHA FATHIMA S
+212224230159
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
