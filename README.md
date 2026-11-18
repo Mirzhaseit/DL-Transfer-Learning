@@ -33,8 +33,8 @@ Define loss function (BCEWithLogitsLoss) and optimizer (Adam). Train the model a
 Evaluate the model with test accuracy, confusion matrix, classification report, and visualize predictions.
 
 ## PROGRAM
-### Name: Bristo AK
-### Register Number:212225230037
+### Name: MIRZHA FATHIMA S
+### Register Number:212224230159
 ```
 import torch
 import torch.nn as nn
